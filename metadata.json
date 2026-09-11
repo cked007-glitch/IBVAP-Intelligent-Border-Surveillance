@@ -1,0 +1,6 @@
+{
+  "name": "IBVAP — Intelligent Border Video Analytics Platform",
+  "description": "AI-Powered Video Surveillance and Analytics Dashboard for Border Security Forces using existing CCTV and IP camera infrastructure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
